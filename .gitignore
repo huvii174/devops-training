@@ -1,0 +1,53 @@
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon file
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Cache files
+*.swp
+*.lock
+*.log
+*.tmp
+*.bak
+*.old
+
+# macOS Applications
+*.plist
+*.crash
+*.mojave
+
+# macOS Finder attributes
+.metadata_never_index
+.noindex
+
+# Backup files
+**/._*
+*.~*
+
+# Logs
+*.log
+*.gz
+*.bz2
+
+# macOS QuickLook thumbnails
+.Qicon
+.Qupic
+
+# macOS quarantine and resource fork files
+*.qlgenerator
+*.qlmarkdown
+
