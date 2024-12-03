@@ -51,3 +51,6 @@ Icon?
 *.qlgenerator
 *.qlmarkdown
 
+# IDE
+*.idea
+
